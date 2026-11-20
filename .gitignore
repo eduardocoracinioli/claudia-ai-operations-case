@@ -1,0 +1,18 @@
+# Dados confidenciais
+data/raw/
+data/processed/
+
+# Ambiente Python
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configurações locais
+.env
+.env.*
